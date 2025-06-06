@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298321528115",
+    "project_id": "cyclone-detection",
+    "storage_bucket": "cyclone-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298321528115:android:7bdd436cef1ac71985ea46",
+        "android_client_info": {
+          "package_name": "com.app.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnW-penW_rhTz4qnVrmnotcTayAi3i7aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
