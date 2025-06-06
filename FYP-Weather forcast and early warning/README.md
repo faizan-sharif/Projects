@@ -57,5 +57,5 @@ All features have been thoroughly tested across Android devices with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-disaster-warning.git
+   git clone https://github.com/faizan-sharif/Projects/tree/main/FYP-Weather%20forcast%20and%20early%20warning
 
