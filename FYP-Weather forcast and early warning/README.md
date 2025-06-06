@@ -15,6 +15,20 @@ A real-time mobile application designed to provide accurate alerts and forecasts
 - ♿ **Accessibility Support** (high contrast, large text, screen reader)
 
 ---
+##Sign up 
+![image](https://github.com/user-attachments/assets/72b58fca-111b-4d73-9207-faadf819b650)
+
+##Login Page
+
+![image](https://github.com/user-attachments/assets/19f1ee13-9796-4914-947f-cdd3ac7bf157)
+
+##Weather forcast
+
+![image](https://github.com/user-attachments/assets/643ec426-426a-4228-9240-49a896bcfb70)
+
+##Cyclone Detection Page through LSTM model
+
+![image](https://github.com/user-attachments/assets/68d3cc2d-426d-4558-a593-65b33f77164f)
 
 ## 🛠️ Tech Stack
 
