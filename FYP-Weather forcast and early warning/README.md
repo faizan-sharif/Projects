@@ -19,7 +19,8 @@ A real-time mobile application designed to provide accurate alerts and forecasts
 ## 🛠️ Tech Stack
 
 - **Frontend:** Flutter
-- **Backend:** Python (Flask)
+- **Backend:** Python (Fast Api)
+- **Backend:** Python (Training of Model LSTM)
 - **Database:** Firebase Firestore
 - **Authentication:** Firebase Auth
 - **Notifications:** Firebase Cloud Messaging (FCM)
