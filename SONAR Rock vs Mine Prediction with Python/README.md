@@ -29,7 +29,7 @@ sonar data.csv
 
 The project is based on sonar signals, typically used to distinguish between different objects (e.g., rocks vs. mines). Features represent signal strengths at different frequencies.
 
-> 📦 *Note: If the dataset is public, consider adding a link or uploading a sample CSV.*
+> https://github.com/faizan-sharif/Projects/blob/main/SONAR%20Rock%20vs%20Mine%20Prediction%20with%20Python/sonar%20data.csv
 
 ---
 
