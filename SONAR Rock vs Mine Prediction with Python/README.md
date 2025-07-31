@@ -9,6 +9,7 @@ This project applies supervised machine learning techniques to predict prices ba
 ```
 Sonar price prediction.ipynb
 README.md
+sonar data.csv
 ```
 
 ---
