@@ -94,7 +94,8 @@ Run all cells sequentially to see preprocessing, modeling, and predictions.
 
 ## 📌 Results
 
-> 📍 *Add any screenshots, output charts, or summary tables here to display results.*  
+> 📍 <img width="644" height="289" alt="image" src="https://github.com/user-attachments/assets/47214847-aaa6-4b14-941a-4beac973dcce" />
+
 Example:
 - Random Forest: R² = 0.91  
 - XGBoost: RMSE = 2.3
