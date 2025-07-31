@@ -105,13 +105,6 @@ Example:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss proposed updates.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
 
 ## ✨ Acknowledgments
 
