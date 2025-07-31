@@ -123,5 +123,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 📬 Connect
 
-Made with ❤️ by [Your Name](https://github.com/your-username)  
+Made with ❤️ by [FAIZAN SHARIF]([https://github.com/your-username](https://github.com/faizan-sharif))  
 Feel free to reach out or connect via GitHub!
